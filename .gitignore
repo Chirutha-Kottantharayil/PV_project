@@ -1,0 +1,6 @@
+
+# Ignore Jupyter checkpoint folders
+**/.ipynb_checkpoints/
+
+# Ignore merged Japan datasets and plots
+japan_data/merged data/
